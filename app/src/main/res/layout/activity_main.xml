@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Today, I will show how to share android studio project on GitHub. Now let's make some changes."
+        android:text="Today, I will show how to share android studio project on GitHub. Now let's make some changes. Incoming change from GitHub repository."
         android:textSize="20sp"
         android:textColor="#F44336"
         android:padding="10dp"
